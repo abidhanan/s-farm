@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <!-- Rumah / barn -->
+  <path d="M78 442 L78 168 Q78 150 92 139 L236 34 Q256 20 276 34 L420 139 Q434 150 434 168 L434 442"
+        stroke="#1b5e34" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+  <!-- Daun -->
+  <path d="M128 262 C48 272 24 356 60 436 C138 414 158 334 128 262 Z" fill="#6aa84f"/>
+  <path d="M66 424 C94 358 114 306 138 266" stroke="#1b5e34" stroke-width="9" stroke-linecap="round" fill="none"/>
+
+  <!-- Papan jalan (clipboard) -->
+  <rect x="150" y="120" width="212" height="332" rx="30" fill="#1b5e34"/>
+  <rect x="172" y="152" width="168" height="288" rx="16" fill="#ffffff"/>
+
+  <!-- Klip atas -->
+  <rect x="212" y="104" width="88" height="46" rx="16" fill="#1b5e34"/>
+  <circle cx="256" cy="103" r="15" fill="#1b5e34"/>
+
+  <!-- Checklist -->
+  <g fill="#1b5e34">
+    <circle cx="205" cy="190" r="8"/><rect x="224" y="185" width="98" height="10" rx="5"/>
+    <circle cx="205" cy="216" r="8"/><rect x="224" y="211" width="98" height="10" rx="5"/>
+    <circle cx="205" cy="242" r="8"/><rect x="224" y="237" width="98" height="10" rx="5"/>
+    <circle cx="205" cy="268" r="8"/><rect x="224" y="263" width="98" height="10" rx="5"/>
+  </g>
+
+  <!-- Diagram batang -->
+  <g fill="#6aa84f">
+    <rect x="198" y="372" width="36" height="62" rx="5"/>
+    <rect x="244" y="334" width="36" height="100" rx="5"/>
+    <rect x="290" y="294" width="36" height="140" rx="5"/>
+  </g>
+</svg>

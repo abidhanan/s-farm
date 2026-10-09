@@ -1,0 +1,17 @@
+{
+  "name": "S-Farm — Peternakan Desa Singopuran",
+  "short_name": "S-Farm",
+  "description": "Sistem manajemen peternakan ayam petelur & kambing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#052e16",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
